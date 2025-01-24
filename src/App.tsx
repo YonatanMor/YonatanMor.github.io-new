@@ -21,7 +21,7 @@ function App() {
     <div>
       <img
         className="fixed h-7/8 w-screen -z-50"
-        src="./heroPic.png"
+        src="./hero pic.png"
         alt="hero pic"
       />
       <div className="h-10 fixed w-screen z-50" style={{ opacity: opacity }}>
